@@ -1,4 +1,4 @@
-#note this project is still in prograss
+#note this project is still in progress
 import numpy as np
 import cv2
 cap = cv2.VideoCapture('hello.flv')
